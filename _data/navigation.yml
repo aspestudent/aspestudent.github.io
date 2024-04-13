@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "ASPE Home Page"
-    url: https://aspe.net
   - title: "Register for the '24 Challenge!"
     url: https://forms.gle/bpNioFgKw9np4Nwq9
+  - title: "ASPE Home Page"
+    url: https://aspe.net
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
